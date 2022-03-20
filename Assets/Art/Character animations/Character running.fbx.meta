@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 45ef9c7b6954eaf4f9e07479f1655b85
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 2505919945730329460
+    second: Kugel.001|Eye l smallAction
+  - first:
+      74: 705666458247665590
+    second: Kugel.001|Eye r smallAction
+  - first:
+      74: -8709139915055281347
+    second: Kugel.001|Kugel.001Action
+  - first:
+      74: 6722053384950181944
+    second: Kugel.001|Kugel.002Action
+  - first:
+      74: 6398967900259108812
+    second: Kugel.001|Kugel.003Action
+  - first:
+      74: 326636717528032090
+    second: Kugel.002|Eye l smallAction
+  - first:
+      74: -901936374358366435
+    second: Kugel.002|Eye r smallAction
+  - first:
+      74: 960347818893299113
+    second: Kugel.002|Kugel.001Action
+  - first:
+      74: 3165192972012350519
+    second: Kugel.002|Kugel.002Action
+  - first:
+      74: -7707373548394030148
+    second: Kugel.002|Kugel.003Action
+  - first:
+      74: -2307927743415479287
+    second: Kugel.003|Eye l smallAction
+  - first:
+      74: 6689166730630745457
+    second: Kugel.003|Eye r smallAction
+  - first:
+      74: 322404256663405282
+    second: Kugel.003|Kugel.001Action
+  - first:
+      74: 5697124874583411797
+    second: Kugel.003|Kugel.002Action
+  - first:
+      74: 1808638285692184224
+    second: Kugel.003|Kugel.003Action
+  - first:
+      74: 3242896954178863589
+    second: Eye r big|Eye l smallAction
+  - first:
+      74: 5737860115352692858
+    second: Eye r big|Eye r smallAction
+  - first:
+      74: 9110912877687990954
+    second: Eye r big|Kugel.001Action
+  - first:
+      74: -2620833155253640597
+    second: Eye r big|Kugel.002Action
+  - first:
+      74: 8761840789911796771
+    second: Eye r big|Kugel.003Action
+  - first:
+      74: -3924173095983330295
+    second: Eye l big|Eye l smallAction
+  - first:
+      74: -4075778571237377185
+    second: Eye l big|Eye r smallAction
+  - first:
+      74: 5000078385392105669
+    second: Eye l big|Kugel.001Action
+  - first:
+      74: -2025091835615847973
+    second: Eye l big|Kugel.002Action
+  - first:
+      74: 2951820589766574979
+    second: Eye l big|Kugel.003Action
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
